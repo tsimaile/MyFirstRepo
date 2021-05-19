@@ -1,3 +1,4 @@
 This is some text
 Adding a change on the local/master
 Adding a change to local/ConflictBranch/file1
+Fixing an issue on local/master/file1

@@ -1,3 +1,3 @@
 This is some text
 Adding a change on the local/master
-Making another change since I didn't switch branch
+Adding a change to local/ConflictBranch/file1

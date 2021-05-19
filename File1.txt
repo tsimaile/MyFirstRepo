@@ -1,1 +1,2 @@
 This is some text
+Adding a change to local/ConflictBranch/file1

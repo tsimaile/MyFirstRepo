@@ -2,3 +2,6 @@ This is some text
 Adding a change to local/master/file1
 Adding a change to local/ConflictBranch/file1
 Adding a change to local/Dev/file1
+Fixing an issue on local/master/file1
+
+Adding more stuff to local/Dev (oops)
